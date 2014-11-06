@@ -6,9 +6,9 @@ require File.expand_path("../../rails_helper", __FILE__)
  		#{{{ Create User with valid attributes
 			let(:valid_attributes){
 				{
-					first_name: "Bertan",
-					last_name: "ulusoy",
-					email: "bertan@teamtreehouse.com",
+					first_name: "Jason",
+					last_name: "Seifer",
+					email: "jason@teamtreehouse.com",
 					password: "treehouse1234",
 					password_confirmation: "treehouse1234"
 				}
